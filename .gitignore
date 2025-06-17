@@ -1,0 +1,24 @@
+# macOS 시스템 파일
+.DS_Store
+
+# IntelliJ IDEA 관련 파일 및 폴더
+.idea/
+*.iml
+out/
+
+# 빌드 결과물
+bin/
+build/
+
+# Java 클래스 파일
+*.class
+
+# 로그 파일
+*.log
+
+# Maven / Gradle (혹시 쓴다면)
+target/
+.gradle/
+
+# 기타
+*.swp
