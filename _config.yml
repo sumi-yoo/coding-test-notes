@@ -1,3 +1,5 @@
-theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
 title: "내 코딩테스트 노트"
-description: "자바 코딩테스트 정리"
+description: "코딩테스트 문제 풀이 정리"
