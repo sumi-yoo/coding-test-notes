@@ -23,4 +23,4 @@
 
 ---
 
-<a href="../README.md">⬅ 이전</a><span style="margin: 0 2rem;"></span><a href="./page2.md">➡ 다음</a>
+<a href="../README.html">⬅ 이전</a><span style="margin: 0 2rem;"></span><a href="./page2.html">➡ 다음</a>
