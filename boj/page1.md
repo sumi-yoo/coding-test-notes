@@ -23,4 +23,4 @@
 
 ---
 
-[⬅ 이전](./README.md) | [➡ 다음](./page2.md)
+[⬅ 이전](../README.md)  [➡ 다음](./page2.md)
