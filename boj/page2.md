@@ -1,4 +1,4 @@
-# BOJ 문제 리스트 2 (21~35)
+# BOJ 문제 리스트 2 (21~40)
 
 - [2470 - 두 용액](./2470.md)
 - [11399 - ATM](./11399.md)
@@ -23,4 +23,4 @@
 
 ---
 
-[⬅ 이전](./page1.md)
+<a href="./page1.html/">⬅ 이전</a><span style="margin: 0 2rem;"></span><a href="./page3.html">➡ 다음</a>
