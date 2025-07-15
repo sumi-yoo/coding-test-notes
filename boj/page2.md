@@ -23,4 +23,4 @@
 
 ---
 
-<a href="./page1.html/">⬅ 이전</a><span style="margin: 0 2rem;"></span><a href="./page3.html">➡ 다음</a>
+[⬅ 이전](../README.md)
